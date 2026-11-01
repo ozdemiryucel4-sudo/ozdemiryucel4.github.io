@@ -1,37 +1,42 @@
 ---
 layout: post
-title: "How AI Tools Help Me in Programming"
+title: "My Life as a Computer Engineering Student and Coding"
 date: 2026-05-01 12:00:00 +0300
-categories: [blog, student]
+categories: [blog, student, coding]
 ---
 
 ## Introduction
 
-Hello everyone! Today, artificial intelligence (AI) is very popular in computer science. Many students use AI tools for coding and homework. In this blog post, I want to write about how AI affects my programming projects and daily university life.
+Hello everyone! My name is a student. I study computer engineering at university. Every day, I learn new things about computers, software, and programming. This blog post is about my daily student life, my coding projects, and how I learn new technologies.
 
-## How I Use AI Tools
+## Why I Choose Computer Engineering
 
-When I write code for my classes, sometimes I get stuck. AI helps me in some ways:
+When I was young, I always loved computers and games. I wanted to know how programs work inside. Because of this, I chose computer engineering. At university, I study many different subjects like data structures, algorithms, and software design. It is not always easy, but it is very exciting.
 
-* **Finding errors:** When my code has a bug, I can check with AI to see what is wrong. It helps me fix errors quickly.
-* **Saving time:** It helps to write easy parts of code (like boilerplate code), so I can focus on the main logic.
-* **Learning new things:** If I don't know a function or syntax in languages like C++ or Python, AI shows me simple examples.
+## How I Do My Daily Coding Homework
 
-## Problems with AI
+University homework takes a lot of time. When I get a new coding task, I follow these simple steps:
+1. **Read carefully:** First, I read the homework question two or three times to understand what the teacher wants.
+2. **Plan the code:** I think about how to write the code on paper before using the computer.
+3. **Write and test:** I open my code editor, write the program, and run it. 
+4. **Fix errors:** Usually, my code does not work on the first try. I look at error messages, find my mistakes, and fix them.
 
-Even if AI is very useful, there are some problems:
+## Using Technology and Tools
 
-1. **Mistakes:** Sometimes AI gives wrong code or security issues. We cannot trust it 100%. We must test our code.
-2. **Not learning well:** If we always copy-paste code from AI, we cannot learn how to think like a real programmer for exams. 
+Today, technology helps students a lot. I use the internet, technical documents, and AI tools when I get stuck on a difficult problem. They help me find syntax examples and understand complex logic. However, I always try to write my own code and learn the core concepts for my exams.
+
+## Future Plans
+
+In the future, I want to build more useful mobile and web applications. I want to improve my skills in Python, C, and Flutter. Technology changes fast, so I need to study hard every day.
 
 ## Conclusion
 
-In my opinion, AI is a good helper for university students. But we need to use it carefully, write our own code, and learn the basics. 
+Being a computer engineering student is a great experience. Writing code, solving bugs, and making projects make me feel happy. Thank you for reading my blog post! See you in the next post.
 
 ---
 
 ## References & Sources
 
-* OpenAI. (2023). *ChatGPT Overview and Features*. OpenAI Documentation.
-* GitHub. (2023). *About GitHub Copilot and Developer Productivity*. GitHub Blog.
-* Stack Overflow. (2024). *Developer Survey: AI and Coding Trends*.
+* GitHub. (2023). *GitHub Pages and Jekyll Documentation*. Available at: https://pages.github.com/[cite: 2]
+* University Lecture Notes. (2026). *Introduction to Computer Engineering and Programming*.
+* Python Software Foundation. (2024). *Python Tutorial for Beginners*. Python Documentation.
