@@ -19,7 +19,8 @@ To fix this, we can use a computer program with machine learning. The program lo
 3. **The Result:** Helping power systems understand how much energy they will get.
 
 ## Presentation Slides
-*I will put my presentation slides (PDF file) here one day before my presentation[cite: 1].*
+You can download and review my presentation slides from the link below:
+* [Download Presentation Slides (PDF)](/presentation.pdf)
 
 ## References & Sources
 1. Antonanzas, J., et al. (2016). *Review of photovoltaic power forecasting*. Solar Energy, 136, 78-111.
